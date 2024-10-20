@@ -1,0 +1,18 @@
+.mypic{
+	width: 100%;
+	height: auto;
+}
+
+.my-splash {
+	background-image: url(../img/my-image.png);
+}
+
+.splash-title {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+div {
+	margin-bottom: 50px;
+}
